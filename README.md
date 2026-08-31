@@ -1,6 +1,6 @@
 # Rongze Ma | IT Project Portfolio
 
-Master of Information Technology candidate at Monash University, expected to graduate in November 2026.
+Master of Information Technology candidate at Monash University, expected to graduate in December 2026.
 
 I have professional experience in IT support and network maintenance, together with academic project experience in software development, cloud computing, mobile applications and data visualisation.
 
@@ -101,20 +101,21 @@ An end-to-end data exploration and interactive narrative visualisation examining
 
 ## Technical Skills
 
-- **Programming:** Python, Java, Kotlin, JavaScript and SQL
-- **Frontend and Mobile:** React, Android and Jetpack Compose
-- **Cloud:** AWS, Google Cloud Platform, Firebase and Terraform
-- **Data:** Pandas, NumPy, D3.js, Tableau and data visualisation
+- **Programming:** Python, TypeScript, JavaScript, Java, Kotlin and SQL
+- **Frontend and Mobile:** React, Vue 3, Vite, Android and Jetpack Compose
+- **Backend and APIs:** FastAPI and REST APIs
+- **Cloud and DevOps:** AWS, Google Cloud Platform, Firebase, Docker, Kubernetes and Terraform
+- **Data and Quality:** Pandas, NumPy, D3.js, Tableau, Pytest and Locust
 - **Tools:** Git, GitHub, GitLab and Jupyter Notebook
 
 ## Education
 
-**Monash University**
-Master of Information Technology, expected November 2026
+**Monash University**  
+Master of Information Technology, expected December 2026
 
-**Anhui Institute of Information Technology**
+**Anhui Institute of Information Technology**  
 Bachelor's degree in Software Engineering, 2018 - 2022
 
 ## Career Interests
 
-I am currently seeking internship, part-time and 2027 graduate opportunities in Australia across software development, cloud or application support, data analysis and business analysis.
+I am seeking graduate and entry-level opportunities in Australia across software engineering, cloud engineering, frontend development and application support, with full-time availability from December 2026.
