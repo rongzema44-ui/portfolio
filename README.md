@@ -8,6 +8,42 @@ I have professional experience in IT support and network maintenance, together w
 
 ## Featured Projects
 
+### LoopLocal Melbourne - Community Recycling Platform (In Progress)
+
+**August 2026 - Present | Individual FIT5032 project**
+
+A Vue 3 and Vite application that helps Melbourne residents find waste-disposal guidance, discover community events and register as participants or volunteers.
+
+**Current work**
+
+- Developing searchable, category-filtered waste guidance and event filters for type, language and availability.
+- Implementing participant and volunteer registration workflows with conditional validation.
+- Applying accessible error summaries, responsive layouts, automated testing and linting.
+
+**Technologies:** Vue 3, Vite, JavaScript, HTML/CSS and automated testing.
+
+**Source:** Private during active coursework; ownership remains under the Monash course account.
+
+---
+
+### SuburbPulse VIC - Housing & Liveability Analytics (In Progress)
+
+**August 2026 - Present | Frontend Developer | Six-person FIT5120 industry project**
+
+A predictive analytics platform designed to help users explore and compare Victorian suburbs using forecast housing-affordability and liveability indicators.
+
+**My role**
+
+- Developing the React frontend for suburb search, comparison and liveability views.
+- Collaborating with teammates specialising in AI, IT, business information systems, cybersecurity and data science.
+- Providing flexible support beyond frontend tasks as project delivery needs change.
+
+**Planned platform architecture:** React, FastAPI, Python ETL, PostgreSQL/PostGIS and Victorian government open datasets.
+
+**Source:** Private team/coursework repository; a public source link will be considered after team permission and course completion.
+
+---
+
 ### Aussie EcoLens - Multi-Cloud Serverless Wildlife Platform
 
 **April 2026 - June 2026 | Four-person team project**
@@ -73,10 +109,10 @@ An end-to-end data exploration and interactive narrative visualisation examining
 
 ## Education
 
-**Monash University**  
+**Monash University**
 Master of Information Technology, expected November 2026
 
-**Anhui Institute of Information Technology**  
+**Anhui Institute of Information Technology**
 Bachelor's degree in Software Engineering, 2018 - 2022
 
 ## Career Interests
